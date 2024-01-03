@@ -11,6 +11,9 @@ This is a simple and customizable landing page template built with HTML, CSS, an
 - Easy to integrate with your project
 - Mobile-friendly
 
+## Figma File
+View the Figma design for this project here: 
+https://www.figma.com/file/BO0QSRRo5iVzvdbHTJCWcj/Landing-Page-Concept-(Community)?type=design&t=C24fSODfDtjcRs6n-6
 ## Getting Started
 
 ### Prerequisites
